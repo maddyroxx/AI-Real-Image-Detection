@@ -1,0 +1,27 @@
+# Git
+.git
+.gitignore
+
+# Python/Environment
+venv/
+env/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Large Data & Models (Download at runtime or mount as volumes)
+dataset/
+model/
+weights/
+
+# IDE
+.vscode/
+.idea/
+
+# Local Dev/Debug
+debug_*.py
+test_*.py
+tests/
+*.log

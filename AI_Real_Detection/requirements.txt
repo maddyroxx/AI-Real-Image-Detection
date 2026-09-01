@@ -1,0 +1,13 @@
+flask
+transformers
+pillow
+pandas
+
+scikit-learn
+accelerate
+datasets
+evaluate
+
+opencv-python-headless
+numpy
+gunicorn
